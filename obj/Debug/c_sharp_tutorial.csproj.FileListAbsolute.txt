@@ -1,0 +1,2 @@
+c:\users\user\documents\visual studio 2015\Projects\c_sharp_tutorial\c_sharp_tutorial\bin\Debug\c_sharp_tutorial.exe.config
+c:\users\user\documents\visual studio 2015\Projects\c_sharp_tutorial\c_sharp_tutorial\obj\Debug\c_sharp_tutorial.csprojResolveAssemblyReference.cache
