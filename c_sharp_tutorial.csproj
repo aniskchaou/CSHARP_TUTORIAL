@@ -43,6 +43,32 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Basic\AnonymousFunction.cs" />
+    <Compile Include="Basic\ArrayFunction.cs" />
+    <Compile Include="Basic\CallFunctionByValueByrefrence.cs" />
+    <Compile Include="Basic\CommandLineArgument.cs" />
+    <Compile Include="Basic\GoToExample.cs" />
+    <Compile Include="Basic\JaggedArray.cs" />
+    <Compile Include="Basic\MultidementionalArray.cs" />
+    <Compile Include="Basic\Params.cs" />
+    <Compile Include="Collection\Dictionary.cs" />
+    <Compile Include="exception\FinallyBlock.cs" />
+    <Compile Include="file\deserialization.cs" />
+    <Compile Include="file\Serialization.cs" />
+    <Compile Include="file\StramReader.cs" />
+    <Compile Include="file\StreamWriter.cs" />
+    <Compile Include="file\TextReader.cs" />
+    <Compile Include="file\TextWriter.cs" />
+    <Compile Include="generics\GenericClass.cs" />
+    <Compile Include="generics\GenericMethods.cs" />
+    <Compile Include="POO\Agregation.cs" />
+    <Compile Include="POO\Base.cs" />
+    <Compile Include="POO\MethodsOverloading.cs" />
+    <Compile Include="POO\MethodsOverriding.cs" />
+    <Compile Include="POO\Sealed.cs" />
+    <Compile Include="POO\StaticClass.cs" />
+    <Compile Include="POO\StaticConstructor.cs" />
+    <Compile Include="Basic\VarInOut.cs" />
     <Compile Include="POO\AbstractClass.cs" />
     <Compile Include="POO\AbstractProperties.cs" />
     <Compile Include="POO\Accesors.cs" />
@@ -68,7 +94,7 @@
     <Compile Include="Advanced\Generics.cs" />
     <Compile Include="Collection\Hashtable.cs" />
     <Compile Include="POO\Inheritance.cs" />
-    <Compile Include="Basic\IOFiles.cs" />
+    <Compile Include="file\IOFiles.cs" />
     <Compile Include="POO\ITransactions.cs" />
     <Compile Include="Thread\MainThrread.cs" />
     <Compile Include="Thread\ManagingThread.cs" />
@@ -94,6 +120,8 @@
     <Compile Include="exception\UserdefinedExeption.cs" />
     <Compile Include="Basic\UsingNameSpace.cs" />
     <Compile Include="POO\VirtualMethod.cs" />
+    <Compile Include="Thread\SynchronisedThread.cs" />
+    <Compile Include="Thread\UnsynchronizedThread.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
